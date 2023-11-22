@@ -1,0 +1,2 @@
+# politkiewicz.pl
+www
